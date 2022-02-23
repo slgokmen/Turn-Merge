@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a85c2aa10f7b0354bb1fa42b508ec014
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Benny Blanco
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 37f2ca0b4bac12840a64c4a026bac865, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

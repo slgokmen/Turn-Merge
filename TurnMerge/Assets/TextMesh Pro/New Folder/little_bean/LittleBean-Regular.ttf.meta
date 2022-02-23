@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 2b15876570c80364da458a33d63aa3dd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Little Bean
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c4fce998f7ed860489fba02ec7671ccc, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
